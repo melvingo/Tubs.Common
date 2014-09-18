@@ -6,5 +6,6 @@
     <authors>Melvin Go</authors>
     <description></description>
     <language>en-US</language>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
   </metadata>
 </package>
