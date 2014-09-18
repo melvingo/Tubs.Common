@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>Tubs.Common</id>
-    <version>1.0</version>
+    <version>1.0.0</version>
     <authors>Melvin Go</authors>
-    <description></description>
-    <language>en-US</language>
-	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Common code</description>
   </metadata>
   <files>
     <file src="bin\Release\Tubs.Common.dll" target="lib" />
